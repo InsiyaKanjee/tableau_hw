@@ -1,0 +1,10 @@
+CSV/202106-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+CSV/202107-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+CSV/202108-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+CSV/citibike_combined_df.csv filter=lfs diff=lfs merge=lfs -text
+CSV/202102-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+CSV/202104-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+CSV/202105-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+CSV/NYC_Covid_Cases.csv filter=lfs diff=lfs merge=lfs -text
+CSV/202101-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+CSV/202103-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
